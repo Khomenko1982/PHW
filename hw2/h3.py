@@ -7,8 +7,9 @@
 n = int(input('Введите значение числа N: ')) 
 lst=[1]
 i=1
+magic=3
 while i<=n:
-    num=lst[-1]+3
+    num=lst[-1]+magic
     lst.append(num)
     i=i+1
 print(lst)
