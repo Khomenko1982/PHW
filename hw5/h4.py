@@ -2,7 +2,7 @@
 # Входные и выходные данные хранятся в отдельных текстовых файлах.
 
 with open('h4_unzip.txt', 'w') as data:
-    data.write('WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW')
+    data.write('dddddddddddddeeeeeeeeeeeecccccccccccccccccccccssssssssssssssssssssswwwwwwwwwwwwwwwwvvvvvvvvvvvvvvvvvggggggggggggggggggggrrrrrrrrrvvvvvvvvvvvvvvvvvvvdddddddddddddddddssssssssssssssss')
 
 with open('h4_unzip.txt', 'r') as data:
     string = data.readline()
